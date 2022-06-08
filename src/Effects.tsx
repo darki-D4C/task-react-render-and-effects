@@ -22,4 +22,3 @@ export function Effects(props: { sourceId: string }) {
         </div>
     );
 }
-© 2022 GitHub, Inc.
